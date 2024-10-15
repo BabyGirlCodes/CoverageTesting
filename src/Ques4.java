@@ -1,6 +1,6 @@
 public class Ques4 {
     public String discountCheck(int age){
-        String msg ="";
+        String msg = "";
         if(age<16){
             msg = "You are entitled to a Junior discount";
         }
